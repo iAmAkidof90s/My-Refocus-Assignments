@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @iAmAkidof90s
-- 👀 I’m interested in relationship counseling, web developing, graphic designing, and virtual assistant
-- 🌱 I’m currently learning java script and github basics
-- 💞️ I’m looking to collaborate with wed developers, looking for graphic designing and virtual assistance 
-- 📫 How to reach me by sending email at randyclaudio@outlook.com or in my whatsapp @randyclaudio
+- 👋 Hi, I’m @iAmAkidof90s, I am an entrepreneur, a gifted counselor, a graphic designer, and a virtual assistant. I am committed to serve all your needs!
+- 👀 I’m interested in relationship counseling, web developing, graphic designing, virtual assistant, and any entrepreneurial endeavors
+- 🌱 My current goal is to be a full stack web developer
+- 💞️ I aim to be a web developer to help all growing companies around the globe in marketing their products or services using the fastest means of communication of the world wide web in this new age
